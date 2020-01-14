@@ -604,7 +604,7 @@
   <b>Version</b> 2.4.0
 </div>
 <center>
-  <strong>Copyright &copy; 2018 <a href="https://adminlte.io">Idea Colombia S.A.S.</a>.</strong> All rights
+  <strong>Copyright &copy; 2020 <a href="https://adminlte.io">Idea Colombia S.A.S.</a>.</strong> All rights
   reserved.
 </center>
 </footer>

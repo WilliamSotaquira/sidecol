@@ -126,7 +126,7 @@ Auth::logout();
     </header><!-- /header -->
   </div>  
   <footer class="footer fixed-bottom py-5">
-    <p class="m-0 text-center text-white">Copyright &copy; Sidecol 2019 | <small>Idea Colombia S.A.S.</small></p>
+    <p class="m-0 text-center text-white">Copyright &copy; Sidecol 2020 | <small>Idea Colombia S.A.S.</small></p>
     <!-- /.container -->
   </footer>
 </body>

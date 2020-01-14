@@ -93,7 +93,7 @@
       <b>Version</b> 2.4.0
     </div>
     <center>
-      <strong>2019 <a href="http://grupo-idea.com/colombia/">Idea Colombia S.A.S.</a>.</strong> All rights
+      <strong>2020 <a href="http://grupo-idea.com/colombia/">Idea Colombia S.A.S.</a>.</strong> All rights
       reserved.
     </center>
   </footer>
