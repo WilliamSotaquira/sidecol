@@ -282,7 +282,7 @@
 
     </div>
 
-    <p class="m-0 text-center text-white">Copyright &copy; Idea Colombia S.A.S. 2019</p>
+    <p class="m-0 text-center text-white">Copyright &copy; Idea Colombia S.A.S. 2020</p>
     <center><a href="http://grupo-idea.com/politicas/politicas_y_procedimientos_de_proteccion_de_base_de_datos.pdf">Politicas de manejo de datos</a></center>
     <!-- /.container -->
 </footer>

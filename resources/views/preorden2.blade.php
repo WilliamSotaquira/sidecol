@@ -221,7 +221,7 @@
 											<div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;color:rgba(0,0,0,0.54);font-size:11px;line-height:18px;padding-top:12px;text-align:center">
 												<div>Este correo contiene información confidencial y es prohibida su difusión sin debida autorización.
 												</div>
-												<div style="direction:ltr">© 2019 Idea Colombia S.A.S.,
+												<div style="direction:ltr">© 2020 Idea Colombia S.A.S.,
 													<a class="m_6309808043716325268afal" style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;color:rgba(0,0,0,0.54);font-size:11px;line-height:18px;padding-top:12px;text-align:center"> Av 19 # 114 - 09 of 304, Bogotá D.C., BOG, COLOMBIA
 													</a>
 												</div>
